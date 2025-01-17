@@ -10,7 +10,7 @@ export default function Home() {
         transition={{ duration: 0.5 }}
         className="text-center"
       >
-        <h1 className="text-4xl font-bold mb-4">Hello World</h1>
+        <h1 className="text-4xl font-bold mb-4">Goodbye World</h1>
         <Button variant="default">Click Me</Button>
       </motion.div>
     </div>
